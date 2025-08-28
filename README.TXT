@@ -9,7 +9,7 @@ This project is part of the material for the book
    Pearson Education
 
 It is discussed in chapter 1.
-
+onjects and classes
 This is a very simple project to demonstrate some characteristics of
 objects.
 
